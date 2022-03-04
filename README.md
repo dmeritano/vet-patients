@@ -4,6 +4,6 @@
 
 Intead of using create-react-app, I used **Vite** 
 
-* Vite (Build tool that aims to provide a faster and leaner development experience for modern web projects)
+* Vite (is a build tool that aims to provide a faster and leaner development experience for modern web projects)
 
 TailwindCss - Hooks - LocalStorage
