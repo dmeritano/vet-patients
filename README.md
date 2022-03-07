@@ -1,6 +1,6 @@
 ## VET PATIENTS
 
-### React App - Vet patients administration
+### React App - Vet patients administration - Single Page Application
 
 Intead of using create-react-app, I used **Vite** 
 
