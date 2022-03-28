@@ -1,6 +1,8 @@
 ## VET PATIENTS
 
-### React App - Vet patients administration - Single Page Application
+<u>**Deployed application URL**</u> [Vet-Patients](https://dmeritano-vet-patients-manager.netlify.app/)
+
+### React App - Vet patients administration - SPA
 
 Intead of using create-react-app, I used **Vite** 
 
