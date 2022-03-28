@@ -1,8 +1,10 @@
 ## VET PATIENTS
 
-<u>**Deployed application URL**</u> [Vet-Patients](https://dmeritano-vet-patients-manager.netlify.app/)
-
 ### React App - Vet patients administration - SPA
+
+Project created to learn REACT
+
+<u>**Deployed application URL**</u> [Vet-Patients](https://dmeritano-vet-patients-manager.netlify.app/)
 
 Intead of using create-react-app, I used **Vite** 
 
